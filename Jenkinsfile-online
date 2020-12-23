@@ -14,7 +14,7 @@ pipeline {
         GITHUB_CREDENTIAL_ID = 'github-id'
         KUBECONFIG_CREDENTIAL_ID = 'demo-kubeconfig'
         REGISTRY = 'zb.sz-edu.net'
-        DOCKERHUB_NAMESPACE = 'docker_username'
+        DOCKERHUB_NAMESPACE = 'kwcloud'
         GITHUB_ACCOUNT = 'comtewu'
         APP_NAME = 'devops-java-sample'
     }
